@@ -16,5 +16,11 @@
     "key": "NITIN",
     "expiresAt": "2025-08-30",
     "allowOffline": false
+  },
+  {
+    "id": "bda24fb288f1c38a",
+    "key": "COMPACT",
+    "expiresAt": "2025-10-10",
+    "allowOffline": false
   }
 ]
