@@ -28,5 +28,11 @@
     "key": "CRYPTO",
     "expiresAt": "2025-09-15",
     "allowOffline": false
+  },
+  {
+    "id": "4c7604a94e3c2dc2",
+    "key": "NABEEL",
+    "expiresAt": "2025-09-11",
+    "allowOffline": false
   }
 ]
