@@ -52,5 +52,11 @@
     "key": "AKASH",
     "expiresAt": "2025-10-11",
     "allowOffline": false
+  },
+  {
+    "id": "ae13aa329ebedb5a",
+    "key": "DIVY",
+    "expiresAt": "2025-11-8",
+    "allowOffline": false
   }
 ]
