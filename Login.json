@@ -58,5 +58,11 @@
     "key": "DIVY",
     "expiresAt": "2025-11-8",
     "allowOffline": false
+  },
+  {
+    "id": "f500f1594ded1e77",
+    "key": "CRYPTO",
+    "expiresAt": "2025-11-9",
+    "allowOffline": false
   }
 ]
