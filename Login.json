@@ -64,5 +64,11 @@
     "key": "CRYPTO",
     "expiresAt": "2025-11-9",
     "allowOffline": false
+  },
+  {
+    "id": "c7abde64d2b8b2c9",
+    "key": "1234567",
+    "expiresAt": "2025-11-9",
+    "allowOffline": false
   }
 ]
