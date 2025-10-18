@@ -6,6 +6,12 @@
     "allowOffline": false
   },
   {
+    "id": "4a9b4370a3e2fe40",
+    "key": "KALUA",
+    "expiresAt": "2026-11-9",
+    "allowOffline": true
+  },
+  {
     "id": "66919d5b589eb204",
     "key": "TUFAAN",
     "expiresAt": "2025-10-25",
