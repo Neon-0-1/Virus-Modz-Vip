@@ -18,7 +18,7 @@
     "allowOffline": true
   },
   {
-    "id": "0f5fd45cd0d255f5",
+    "id": "",
     "key": "UNKNOWN",
     "expiresAt": "2025-11-28",
     "allowOffline": false
@@ -48,7 +48,7 @@
     "allowOffline": false
   },
   {
-    "id": "66919d5b589eb204",
+    "id": "",
     "key": "STAR",
     "expiresAt": "2025-11-30",
     "allowOffline": false
@@ -66,9 +66,9 @@
     "allowOffline": false
   },
   {
-    "id": "4f45922b081139c7",
-    "key": "NEEL",
-    "expiresAt": "2025-11-14",
+    "id": "35ef5683ac4f975e",
+    "key": "NABEEL01",
+    "expiresAt": "2025-12-22",
     "allowOffline": false
   },
   {
