@@ -94,5 +94,11 @@
     "key": "SOMNATH",
     "expiresAt": "2025-12-20",
     "allowOffline": false
+  },
+  {
+    "id": "c858ae9c388088d2",
+    "key": "NITIN",
+    "expiresAt": "2026-1-14",
+    "allowOffline": false
   }
 ]
