@@ -106,5 +106,11 @@
     "key": "JACK",
     "expiresAt": "2026-1-19",
     "allowOffline": false
+  },
+  {
+    "id": "8a2eb1b3b9ad8aa4",
+    "key": "RICHI",
+    "expiresAt": "2025-12-27",
+    "allowOffline": false
   }
 ]
