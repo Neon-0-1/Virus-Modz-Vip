@@ -118,5 +118,11 @@
     "key": "RICHI",
     "expiresAt": "2026-1-28",
     "allowOffline": false
+  },
+  {
+    "id": "bda24fb288f1c38a",
+    "key": "WALLETTCRY",
+    "expiresAt": "2026-4-30",
+    "allowOffline": false
   }
 ]
