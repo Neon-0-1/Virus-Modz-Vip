@@ -29,6 +29,12 @@
     "expiresAt": "2027-1-10",
     "allowOffline": false
   },
+    {
+    "id": "2027e5c8426a79d9",
+    "key": "VampireMod",
+    "expiresAt": "2027-1-10",
+    "allowOffline": false
+  },
   {
     "id": "ec8df41dcf5dffb7",
     "key": "AVATAR",
